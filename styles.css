@@ -1,0 +1,15 @@
+/* styles.css */
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: aqua;
+}
+
+div {
+  color: blueviolet;
+}
+
+.kolac {
+  height: 400px;
+  width: 300px;
+}
